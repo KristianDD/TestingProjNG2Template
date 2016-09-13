@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "app",
+    "rootDir": "app",
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "noEmitHelpers": true,
+    "emitDecoratorMetadata": true,
+    "noEmitOnError": true
+  },
+  "compileOnSave": true,
+  "exclude": [
+    "node_modules",
+    "platforms"
+  ]
+}
